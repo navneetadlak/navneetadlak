@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/greybat4](https://github.com/greybat4)
 
-- 💬 Ask me about **JAVA, DSA, HTML, CSS, JAVASCRIPT, LINUX, NODE.JS, EXPRESS, MONGODB**
+- 💬 Ask me about **JAVA, DSA, HTML, CSS, JAVASCRIPT, REACT.JS, REDUX, LINUX, NODE.JS, EXPRESS, MONGODB**
 
 - 📫 How to reach me **navneet.adlak264@gmail.com**
 
