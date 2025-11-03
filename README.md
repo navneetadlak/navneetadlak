@@ -15,7 +15,7 @@
 ](https://github.com/navneetadlak
 ) 
 
-- 💬 Ask me about **JAVASCRIPT, REACT.JS, HTML, CSS, REDUX, LINUX, JAVA, DSA, NODE.JS, EXPRESS, MONGODB**
+- 💬 Ask me about **JAVASCRIPT, TYPESCRIPT, REACT.JS, NEXT.JS, HTML, CSS, REDUX, LINUX, JAVA, DSA, NODE.JS, EXPRESS, MONGODB, AWS**
 
 - 📫 How to reach me **navneet.adlak264@gmail.com**
 
