@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Node.js](https://github.com/greybat4/node.js-project)
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **AI Automation Agentic AI**
 
 - 🤝 I’m looking for help with [Node.js-Project](https://github.com/greybat4/node.js-project)
 
